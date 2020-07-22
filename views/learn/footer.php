@@ -48,7 +48,8 @@
 
     <!-- Init -->
     <script src="<?php echo get_directory('assets');?>js/countdown.js"></script>
-    
+
+    <script src="<?php echo site_url();?>const.js"></script>
     <script src="<?php echo get_directory('assets');?>develover/learn.js"></script>
 
     <?php if ($this->session->flashdata('waktu_habis')): ?>

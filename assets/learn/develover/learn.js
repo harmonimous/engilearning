@@ -1,6 +1,5 @@
 var path = window.location.pathname;
 var host = window.location.hostname;
-var websitename ='/engilearning/';
 
 $(function(){
 

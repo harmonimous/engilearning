@@ -1,9 +1,8 @@
 var editor = '';
 var path = window.location.pathname;
 var host = window.location.hostname;
-var websitename = '/engilearning/';
 
-
+console.log(path);
 var delay = (function(){
     var timer = 0;
     return function(callback,ms){

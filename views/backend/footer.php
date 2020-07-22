@@ -17,6 +17,7 @@
     <script src="<?php echo get_directory('assets');?>develover/browser.js"></script>
     <script src="<?php echo get_directory('assets');?>develover/ajaxupload.js"></script>
     <script src="<?php echo get_directory('assets');?>develover/dropify/dropify.js"></script>
+    <script src="<?php echo site_url();?>const.js"></script>
     <script src="<?php echo get_directory('assets');?>develover/backend.js"></script>
 
     <!-- Perfect Scrollbar -->
